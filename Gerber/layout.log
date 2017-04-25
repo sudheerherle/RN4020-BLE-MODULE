@@ -1,0 +1,574 @@
+Sat Nov 22 11:51:14 Saved as file F:\ROHITH\ORCAD SCHEMATICS\GERBER\LAYOUT.MAX
+Sat Nov 22 11:51:15 Saved as file F:\ROHITH\ORCAD SCHEMATICS\GERBER\LAYOUT.MAX
+Sat Nov 22 11:51:16 Saved as file F:\ROHITH\ORCAD SCHEMATICS\GERBER\LAYOUT.MAX
+Sat Nov 22 11:52:17 Saved as file F:\ROHITH\ORCAD SCHEMATICS\GERBER\LAYOUT.MAX
+Sat Nov 22 11:55:18 Saved as file BACKUP1.MAX
+Sat Nov 22 12:05:18 Saved as file BACKUP1.MAX
+Sat Nov 22 12:59:36 Saved as file ~undo.max
+Sat Nov 22 13:00:19 Saved as file BACKUP1.MAX
+Sat Nov 22 13:00:19 Saved as file F:\ROHITH\ORCAD SCHEMATICS\GERBER\LAYOUT.MAX
+Sat Nov 22 13:00:27 UserDiv from Layout.INI for AutoECO: 60
+Sat Nov 22 13:00:27 Loaded file F:\ROHITH\ORCAD SCHEMATICS\GERBER\LAYOUT.MAX
+Sat Nov 22 13:00:28 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\DDPACK.LLB
+Sat Nov 22 13:00:28 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\DOUBLE.LLB
+Sat Nov 22 13:00:28 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\EAGLESH.LLB
+Sat Nov 22 13:00:28 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\EUROCARD.LLB
+Sat Nov 22 13:00:28 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\LAYOUT.LLB
+Sat Nov 22 13:00:28 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\LAYOUT1.LLB
+Sat Nov 22 13:00:28 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\LIB.LLB
+Sat Nov 22 13:00:28 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\LIBR.LLB
+Sat Nov 22 13:00:28 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\MAG.LLB
+Sat Nov 22 13:00:28 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\MBOAD.LLB
+Sat Nov 22 13:00:28 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\MISCELLANEOUS.LLB
+Sat Nov 22 13:00:28 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\MOLEX 1.25MM.LLB
+Sat Nov 22 13:00:28 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\MY_LIB_CON_MOLEX.LLB
+Sat Nov 22 13:00:28 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\MY_LIB_CON_RF.LLB
+Sat Nov 22 13:00:28 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\MY_LIB_CON_SAMTEC.LLB
+Sat Nov 22 13:00:28 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\MY_LIB_RELAY.LLB
+Sat Nov 22 13:00:28 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\MY_LIB_SM_MOD.LLB
+Sat Nov 22 13:00:28 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\MY_LIB_TM_MOD.LLB
+Sat Nov 22 13:00:28 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\MY_LIB_TO.LLB
+Sat Nov 22 13:00:28 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\POWERINT_COMP.LLB
+Sat Nov 22 13:00:28 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\QFN.LLB
+Sat Nov 22 13:00:28 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\RO.LLB
+Sat Nov 22 13:00:28 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\ROHITH.LLB
+Sat Nov 22 13:00:29 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\ROHITH1.LLB
+Sat Nov 22 13:00:29 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\SHERIEF.LLB
+Sat Nov 22 13:00:29 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\SINGLE.LLB
+Sat Nov 22 13:00:29 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\SM.LLB
+Sat Nov 22 13:00:29 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\SMART.LLB
+Sat Nov 22 13:00:29 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\SOG.LLB
+Sat Nov 22 13:00:29 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\SOJ.LLB
+Sat Nov 22 13:00:29 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\SPEED.LLB
+Sat Nov 22 13:00:29 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\SPEED1.LLB
+Sat Nov 22 13:00:29 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\THU VIEN LAYOUT 1-1-2007.LLB
+Sat Nov 22 13:00:29 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\UR2.LLB
+Sat Nov 22 13:00:29 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\USB.LLB
+Sat Nov 22 13:00:29 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\BCON100T.llb
+Sat Nov 22 13:00:29 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\BCON156T.llb
+Sat Nov 22 13:00:29 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\BGA.llb
+Sat Nov 22 13:00:29 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\CLCC.llb
+Sat Nov 22 13:00:29 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\DCON050T.llb
+Sat Nov 22 13:00:29 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\DCON085T.llb
+Sat Nov 22 13:00:29 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\DIMM050F.llb
+Sat Nov 22 13:00:29 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\DIMM050T.llb
+Sat Nov 22 13:00:29 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\DIN.llb
+Sat Nov 22 13:00:29 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\DIP100B.llb
+Sat Nov 22 13:00:29 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\DIP100T.llb
+Sat Nov 22 13:00:29 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\DSUBT.llb
+Sat Nov 22 13:00:29 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\DSUBT_HD.LLB
+Sat Nov 22 13:00:29 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\ECON100T.llb
+Sat Nov 22 13:00:29 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\FBUS.llb
+Sat Nov 22 13:00:29 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\ISA.llb
+Sat Nov 22 13:00:29 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\JUMPER.LLB
+Sat Nov 22 13:00:29 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\LAYOUT.llb
+Sat Nov 22 13:00:29 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\LCON100T.llb
+Sat Nov 22 13:00:29 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\PC104.llb
+Sat Nov 22 13:00:29 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\PCI.llb
+Sat Nov 22 13:00:29 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\PCON100T.llb
+Sat Nov 22 13:00:29 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\PCON156T.llb
+Sat Nov 22 13:00:29 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\PGA.llb
+Sat Nov 22 13:00:29 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\PLCC.llb
+Sat Nov 22 13:00:29 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\QUAD.llb
+Sat Nov 22 13:00:29 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\QUADB.llb
+Sat Nov 22 13:00:30 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\RELAY.llb
+Sat Nov 22 13:00:30 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\RF.llb
+Sat Nov 22 13:00:30 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\SBUS.llb
+Sat Nov 22 13:00:30 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\SIMM050F.llb
+Sat Nov 22 13:00:30 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\SIMM050T.llb
+Sat Nov 22 13:00:30 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\SIMM100F.llb
+Sat Nov 22 13:00:30 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\SIMM100T.llb
+Sat Nov 22 13:00:30 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\SIP.llb
+Sat Nov 22 13:00:30 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\SM.llb
+Sat Nov 22 13:00:30 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\SOG.llb
+Sat Nov 22 13:00:30 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\SOJ.llb
+Sat Nov 22 13:00:30 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\STIFF.llb
+Sat Nov 22 13:00:30 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\TELE.llb
+Sat Nov 22 13:00:30 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\TM_AXIAL.llb
+Sat Nov 22 13:00:30 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\TM_CAP_P.llb
+Sat Nov 22 13:00:30 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\TM_CYLND.llb
+Sat Nov 22 13:00:30 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\TM_DIODE.llb
+Sat Nov 22 13:00:30 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\TM_DISC.llb
+Sat Nov 22 13:00:30 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\TM_RAD.llb
+Sat Nov 22 13:00:30 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\TO.llb
+Sat Nov 22 13:00:30 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\TRAINING.LLB
+Sat Nov 22 13:00:30 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\VRES.llb
+Sat Nov 22 13:00:30 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\WCON100T.llb
+Sat Nov 22 13:00:30 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\XT.llb
+Sat Nov 22 13:00:30 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\ZIGZAG.llb
+Sat Nov 22 13:00:32 Saved as file F:\ROHITH\ORCAD SCHEMATICS\GERBER\LAYOUT.MAX
+Sat Nov 22 13:00:32 Loaded file F:\ROHITH\ORCAD SCHEMATICS\GERBER\LAYOUT.MAX
+Sat Nov 22 13:00:40 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\data\template.imp
+Sat Nov 22 13:00:40 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\data\template.imp
+Sat Nov 22 13:00:40 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\data\template.imp
+Sat Nov 22 13:00:40 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\data\template.imp
+Sat Nov 22 13:00:40 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\EAGLESH.LLB
+Sat Nov 22 13:00:41 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\RO.LLB
+Sat Nov 22 13:00:41 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\ROHITH.LLB
+Sat Nov 22 13:00:41 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\ROHITH1.LLB
+Sat Nov 22 13:00:43 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\ROHITH.LLB
+Sat Nov 22 13:00:47 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\ROHITH1.LLB
+Sat Nov 22 13:00:51 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\ROHITH1.LLB
+Sat Nov 22 13:00:51 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\SHERIEF.LLB
+Sat Nov 22 13:00:52 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\SINGLE.LLB
+Sat Nov 22 13:00:52 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\SM.LLB
+Sat Nov 22 13:00:53 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\SMART.LLB
+Sat Nov 22 13:00:56 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\SHERIEF.LLB
+Sat Nov 22 13:00:57 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\ROHITH.LLB
+Sat Nov 22 13:00:59 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\data\template.imp
+Sat Nov 22 13:01:06 Saved as file ~undo.max
+Sat Nov 22 13:01:09 Saved as file ~undo.max
+Sat Nov 22 13:01:12 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\data\template.imp
+Sat Nov 22 13:01:12 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\data\template.imp
+Sat Nov 22 13:01:12 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\data\template.imp
+Sat Nov 22 13:01:12 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\data\template.imp
+Sat Nov 22 13:01:13 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\EAGLESH.LLB
+Sat Nov 22 13:01:14 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\RO.LLB
+Sat Nov 22 13:01:14 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\ROHITH.LLB
+Sat Nov 22 13:01:16 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\data\template.imp
+Sat Nov 22 13:01:21 Saved as file ~undo.max
+Sat Nov 22 13:01:26 Saved as file ~undo.max
+Sat Nov 22 13:01:27 Saved as file ~undo.max
+Sat Nov 22 13:02:18 Saved as file ~undo.max
+Sat Nov 22 13:02:21 Saved as file ~undo.max
+Sat Nov 22 13:02:24 Saved as file ~undo.max
+Sat Nov 22 13:02:27 Saved as file ~undo.max
+Sat Nov 22 13:03:43 Saved as file F:\ROHITH\ORCAD SCHEMATICS\GERBER\LAYOUT.MAX
+Sat Nov 22 13:03:43 Saved as file F:\ROHITH\ORCAD SCHEMATICS\GERBER\LAYOUT.MAX
+Sat Nov 22 13:03:43 Saved as file F:\ROHITH\ORCAD SCHEMATICS\GERBER\LAYOUT.MAX
+Sat Nov 22 13:03:46 Saved as file ~undo.max
+Sat Nov 22 13:04:12 Saved as file BACKUP1.MAX
+Sat Nov 22 13:04:12 Saved as file F:\ROHITH\ORCAD SCHEMATICS\GERBER\LAYOUT.MAX
+Sat Nov 22 13:04:17 UserDiv from Layout.INI for AutoECO: 60
+Sat Nov 22 13:04:17 Loaded file F:\ROHITH\ORCAD SCHEMATICS\GERBER\LAYOUT.MAX
+Sat Nov 22 13:04:17 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\DDPACK.LLB
+Sat Nov 22 13:04:18 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\DOUBLE.LLB
+Sat Nov 22 13:04:18 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\EAGLESH.LLB
+Sat Nov 22 13:04:18 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\EUROCARD.LLB
+Sat Nov 22 13:04:18 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\LAYOUT.LLB
+Sat Nov 22 13:04:18 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\LAYOUT1.LLB
+Sat Nov 22 13:04:18 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\LIB.LLB
+Sat Nov 22 13:04:18 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\LIBR.LLB
+Sat Nov 22 13:04:18 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\MAG.LLB
+Sat Nov 22 13:04:18 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\MBOAD.LLB
+Sat Nov 22 13:04:18 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\MISCELLANEOUS.LLB
+Sat Nov 22 13:04:18 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\MOLEX 1.25MM.LLB
+Sat Nov 22 13:04:18 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\MY_LIB_CON_MOLEX.LLB
+Sat Nov 22 13:04:18 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\MY_LIB_CON_RF.LLB
+Sat Nov 22 13:04:18 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\MY_LIB_CON_SAMTEC.LLB
+Sat Nov 22 13:04:18 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\MY_LIB_RELAY.LLB
+Sat Nov 22 13:04:18 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\MY_LIB_SM_MOD.LLB
+Sat Nov 22 13:04:18 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\MY_LIB_TM_MOD.LLB
+Sat Nov 22 13:04:18 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\MY_LIB_TO.LLB
+Sat Nov 22 13:04:18 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\POWERINT_COMP.LLB
+Sat Nov 22 13:04:18 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\QFN.LLB
+Sat Nov 22 13:04:18 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\RO.LLB
+Sat Nov 22 13:04:18 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\ROHITH.LLB
+Sat Nov 22 13:04:18 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\ROHITH1.LLB
+Sat Nov 22 13:04:18 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\SHERIEF.LLB
+Sat Nov 22 13:04:18 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\SINGLE.LLB
+Sat Nov 22 13:04:18 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\SM.LLB
+Sat Nov 22 13:04:18 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\SMART.LLB
+Sat Nov 22 13:04:18 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\SOG.LLB
+Sat Nov 22 13:04:18 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\SOJ.LLB
+Sat Nov 22 13:04:18 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\SPEED.LLB
+Sat Nov 22 13:04:18 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\SPEED1.LLB
+Sat Nov 22 13:04:18 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\THU VIEN LAYOUT 1-1-2007.LLB
+Sat Nov 22 13:04:18 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\UR2.LLB
+Sat Nov 22 13:04:18 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\USB.LLB
+Sat Nov 22 13:04:18 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\BCON100T.llb
+Sat Nov 22 13:04:18 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\BCON156T.llb
+Sat Nov 22 13:04:18 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\BGA.llb
+Sat Nov 22 13:04:18 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\CLCC.llb
+Sat Nov 22 13:04:18 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\DCON050T.llb
+Sat Nov 22 13:04:18 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\DCON085T.llb
+Sat Nov 22 13:04:18 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\DIMM050F.llb
+Sat Nov 22 13:04:18 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\DIMM050T.llb
+Sat Nov 22 13:04:18 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\DIN.llb
+Sat Nov 22 13:04:18 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\DIP100B.llb
+Sat Nov 22 13:04:18 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\DIP100T.llb
+Sat Nov 22 13:04:18 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\DSUBT.llb
+Sat Nov 22 13:04:18 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\DSUBT_HD.LLB
+Sat Nov 22 13:04:18 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\ECON100T.llb
+Sat Nov 22 13:04:18 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\FBUS.llb
+Sat Nov 22 13:04:18 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\ISA.llb
+Sat Nov 22 13:04:18 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\JUMPER.LLB
+Sat Nov 22 13:04:18 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\LAYOUT.llb
+Sat Nov 22 13:04:18 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\LCON100T.llb
+Sat Nov 22 13:04:18 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\PC104.llb
+Sat Nov 22 13:04:18 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\PCI.llb
+Sat Nov 22 13:04:18 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\PCON100T.llb
+Sat Nov 22 13:04:18 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\PCON156T.llb
+Sat Nov 22 13:04:18 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\PGA.llb
+Sat Nov 22 13:04:18 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\PLCC.llb
+Sat Nov 22 13:04:18 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\QUAD.llb
+Sat Nov 22 13:04:18 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\QUADB.llb
+Sat Nov 22 13:04:18 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\RELAY.llb
+Sat Nov 22 13:04:18 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\RF.llb
+Sat Nov 22 13:04:18 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\SBUS.llb
+Sat Nov 22 13:04:18 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\SIMM050F.llb
+Sat Nov 22 13:04:18 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\SIMM050T.llb
+Sat Nov 22 13:04:18 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\SIMM100F.llb
+Sat Nov 22 13:04:18 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\SIMM100T.llb
+Sat Nov 22 13:04:18 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\SIP.llb
+Sat Nov 22 13:04:18 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\SM.llb
+Sat Nov 22 13:04:18 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\SOG.llb
+Sat Nov 22 13:04:18 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\SOJ.llb
+Sat Nov 22 13:04:18 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\STIFF.llb
+Sat Nov 22 13:04:18 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\TELE.llb
+Sat Nov 22 13:04:18 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\TM_AXIAL.llb
+Sat Nov 22 13:04:18 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\TM_CAP_P.llb
+Sat Nov 22 13:04:18 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\TM_CYLND.llb
+Sat Nov 22 13:04:18 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\TM_DIODE.llb
+Sat Nov 22 13:04:18 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\TM_DISC.llb
+Sat Nov 22 13:04:18 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\TM_RAD.llb
+Sat Nov 22 13:04:18 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\TO.llb
+Sat Nov 22 13:04:18 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\TRAINING.LLB
+Sat Nov 22 13:04:18 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\VRES.llb
+Sat Nov 22 13:04:18 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\WCON100T.llb
+Sat Nov 22 13:04:18 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\XT.llb
+Sat Nov 22 13:04:18 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\ZIGZAG.llb
+Sat Nov 22 13:04:19 Saved as file F:\ROHITH\ORCAD SCHEMATICS\GERBER\LAYOUT.MAX
+Sat Nov 22 13:04:20 Loaded file F:\ROHITH\ORCAD SCHEMATICS\GERBER\LAYOUT.MAX
+Sat Nov 22 13:04:27 Saved as file ~undo.max
+Sat Nov 22 13:04:33 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\data\template.imp
+Sat Nov 22 13:04:33 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\data\template.imp
+Sat Nov 22 13:04:33 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\data\template.imp
+Sat Nov 22 13:04:33 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\data\template.imp
+Sat Nov 22 13:04:33 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\EAGLESH.LLB
+Sat Nov 22 13:04:34 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\RO.LLB
+Sat Nov 22 13:04:34 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\ROHITH.LLB
+Sat Nov 22 13:04:36 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\data\template.imp
+Sat Nov 22 13:04:44 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\data\template.imp
+Sat Nov 22 13:04:44 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\data\template.imp
+Sat Nov 22 13:04:44 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\data\template.imp
+Sat Nov 22 13:04:44 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\data\template.imp
+Sat Nov 22 13:04:45 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\EAGLESH.LLB
+Sat Nov 22 13:04:45 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\RO.LLB
+Sat Nov 22 13:04:45 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\ROHITH.LLB
+Sat Nov 22 13:04:46 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\ROHITH1.LLB
+Sat Nov 22 13:04:47 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\ROHITH.LLB
+Sat Nov 22 13:04:49 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\data\template.imp
+Sat Nov 22 13:04:55 Saved as file ~undo.max
+Sat Nov 22 13:04:57 Saved as file ~undo.max
+Sat Nov 22 13:05:45 Saved as file BACKUP1.MAX
+Sat Nov 22 13:05:45 Saved as file F:\ROHITH\ORCAD SCHEMATICS\GERBER\LAYOUT.MAX
+Sat Nov 22 13:05:50 UserDiv from Layout.INI for AutoECO: 60
+Sat Nov 22 13:05:50 Loaded file F:\ROHITH\ORCAD SCHEMATICS\GERBER\LAYOUT.MAX
+Sat Nov 22 13:05:50 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\DDPACK.LLB
+Sat Nov 22 13:05:50 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\DOUBLE.LLB
+Sat Nov 22 13:05:50 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\EAGLESH.LLB
+Sat Nov 22 13:05:50 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\EUROCARD.LLB
+Sat Nov 22 13:05:50 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\LAYOUT.LLB
+Sat Nov 22 13:05:50 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\LAYOUT1.LLB
+Sat Nov 22 13:05:50 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\LIB.LLB
+Sat Nov 22 13:05:50 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\LIBR.LLB
+Sat Nov 22 13:05:50 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\MAG.LLB
+Sat Nov 22 13:05:50 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\MBOAD.LLB
+Sat Nov 22 13:05:50 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\MISCELLANEOUS.LLB
+Sat Nov 22 13:05:50 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\MOLEX 1.25MM.LLB
+Sat Nov 22 13:05:50 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\MY_LIB_CON_MOLEX.LLB
+Sat Nov 22 13:05:50 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\MY_LIB_CON_RF.LLB
+Sat Nov 22 13:05:50 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\MY_LIB_CON_SAMTEC.LLB
+Sat Nov 22 13:05:50 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\MY_LIB_RELAY.LLB
+Sat Nov 22 13:05:50 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\MY_LIB_SM_MOD.LLB
+Sat Nov 22 13:05:50 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\MY_LIB_TM_MOD.LLB
+Sat Nov 22 13:05:50 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\MY_LIB_TO.LLB
+Sat Nov 22 13:05:50 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\POWERINT_COMP.LLB
+Sat Nov 22 13:05:50 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\QFN.LLB
+Sat Nov 22 13:05:50 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\RO.LLB
+Sat Nov 22 13:05:51 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\ROHITH.LLB
+Sat Nov 22 13:05:51 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\ROHITH1.LLB
+Sat Nov 22 13:05:51 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\SHERIEF.LLB
+Sat Nov 22 13:05:51 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\SINGLE.LLB
+Sat Nov 22 13:05:51 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\SM.LLB
+Sat Nov 22 13:05:51 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\SMART.LLB
+Sat Nov 22 13:05:51 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\SOG.LLB
+Sat Nov 22 13:05:51 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\SOJ.LLB
+Sat Nov 22 13:05:51 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\SPEED.LLB
+Sat Nov 22 13:05:51 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\SPEED1.LLB
+Sat Nov 22 13:05:51 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\THU VIEN LAYOUT 1-1-2007.LLB
+Sat Nov 22 13:05:51 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\UR2.LLB
+Sat Nov 22 13:05:51 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\USB.LLB
+Sat Nov 22 13:05:51 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\BCON100T.llb
+Sat Nov 22 13:05:51 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\BCON156T.llb
+Sat Nov 22 13:05:51 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\BGA.llb
+Sat Nov 22 13:05:51 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\CLCC.llb
+Sat Nov 22 13:05:51 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\DCON050T.llb
+Sat Nov 22 13:05:51 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\DCON085T.llb
+Sat Nov 22 13:05:51 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\DIMM050F.llb
+Sat Nov 22 13:05:51 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\DIMM050T.llb
+Sat Nov 22 13:05:51 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\DIN.llb
+Sat Nov 22 13:05:51 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\DIP100B.llb
+Sat Nov 22 13:05:51 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\DIP100T.llb
+Sat Nov 22 13:05:51 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\DSUBT.llb
+Sat Nov 22 13:05:51 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\DSUBT_HD.LLB
+Sat Nov 22 13:05:51 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\ECON100T.llb
+Sat Nov 22 13:05:51 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\FBUS.llb
+Sat Nov 22 13:05:51 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\ISA.llb
+Sat Nov 22 13:05:51 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\JUMPER.LLB
+Sat Nov 22 13:05:51 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\LAYOUT.llb
+Sat Nov 22 13:05:51 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\LCON100T.llb
+Sat Nov 22 13:05:51 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\PC104.llb
+Sat Nov 22 13:05:51 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\PCI.llb
+Sat Nov 22 13:05:51 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\PCON100T.llb
+Sat Nov 22 13:05:51 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\PCON156T.llb
+Sat Nov 22 13:05:51 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\PGA.llb
+Sat Nov 22 13:05:51 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\PLCC.llb
+Sat Nov 22 13:05:51 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\QUAD.llb
+Sat Nov 22 13:05:51 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\QUADB.llb
+Sat Nov 22 13:05:51 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\RELAY.llb
+Sat Nov 22 13:05:51 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\RF.llb
+Sat Nov 22 13:05:51 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\SBUS.llb
+Sat Nov 22 13:05:51 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\SIMM050F.llb
+Sat Nov 22 13:05:51 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\SIMM050T.llb
+Sat Nov 22 13:05:51 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\SIMM100F.llb
+Sat Nov 22 13:05:51 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\SIMM100T.llb
+Sat Nov 22 13:05:51 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\SIP.llb
+Sat Nov 22 13:05:51 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\SM.llb
+Sat Nov 22 13:05:51 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\SOG.llb
+Sat Nov 22 13:05:51 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\SOJ.llb
+Sat Nov 22 13:05:51 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\STIFF.llb
+Sat Nov 22 13:05:51 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\TELE.llb
+Sat Nov 22 13:05:51 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\TM_AXIAL.llb
+Sat Nov 22 13:05:51 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\TM_CAP_P.llb
+Sat Nov 22 13:05:51 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\TM_CYLND.llb
+Sat Nov 22 13:05:51 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\TM_DIODE.llb
+Sat Nov 22 13:05:52 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\TM_DISC.llb
+Sat Nov 22 13:05:52 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\TM_RAD.llb
+Sat Nov 22 13:05:52 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\TO.llb
+Sat Nov 22 13:05:52 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\TRAINING.LLB
+Sat Nov 22 13:05:52 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\VRES.llb
+Sat Nov 22 13:05:52 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\WCON100T.llb
+Sat Nov 22 13:05:52 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\XT.llb
+Sat Nov 22 13:05:52 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\ZIGZAG.llb
+Sat Nov 22 13:05:53 Saved as file F:\ROHITH\ORCAD SCHEMATICS\GERBER\LAYOUT.MAX
+Sat Nov 22 13:05:53 Loaded file F:\ROHITH\ORCAD SCHEMATICS\GERBER\LAYOUT.MAX
+Sat Nov 22 13:05:59 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\data\template.imp
+Sat Nov 22 13:05:59 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\data\template.imp
+Sat Nov 22 13:05:59 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\data\template.imp
+Sat Nov 22 13:05:59 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\data\template.imp
+Sat Nov 22 13:06:00 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\EAGLESH.LLB
+Sat Nov 22 13:06:01 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\RO.LLB
+Sat Nov 22 13:06:01 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\ROHITH.LLB
+Sat Nov 22 13:06:04 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\data\template.imp
+Sat Nov 22 13:06:08 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\data\template.imp
+Sat Nov 22 13:06:08 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\data\template.imp
+Sat Nov 22 13:06:08 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\data\template.imp
+Sat Nov 22 13:06:08 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\data\template.imp
+Sat Nov 22 13:06:09 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\DDPACK.LLB
+Sat Nov 22 13:06:44 Saved as file ~undo.max
+Sat Nov 22 13:06:49 Saved as file ~undo.max
+Sat Nov 22 13:06:51 Saved as file ~undo.max
+Sat Nov 22 13:08:31 Saved as file ~undo.max
+Sat Nov 22 13:08:31 Saved as file ~undo.max
+Sat Nov 22 13:08:34 Saved as file ~undo.max
+Sat Nov 22 13:09:58 Saved as file ~undo.max
+Sat Nov 22 13:10:07 Saved as file ~undo.max
+Sat Nov 22 13:10:18 Saved as file BACKUP1.MAX
+Sat Nov 22 13:10:18 Saved as file F:\ROHITH\ORCAD SCHEMATICS\GERBER\LAYOUT.MAX
+Sat Nov 22 13:10:28 UserDiv from Layout.INI for AutoECO: 60
+Sat Nov 22 13:10:28 Loaded file F:\ROHITH\ORCAD SCHEMATICS\GERBER\LAYOUT.MAX
+Sat Nov 22 13:10:28 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\DDPACK.LLB
+Sat Nov 22 13:10:28 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\DOUBLE.LLB
+Sat Nov 22 13:10:28 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\EAGLESH.LLB
+Sat Nov 22 13:10:28 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\EUROCARD.LLB
+Sat Nov 22 13:10:28 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\LAYOUT.LLB
+Sat Nov 22 13:10:28 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\LAYOUT1.LLB
+Sat Nov 22 13:10:28 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\LIB.LLB
+Sat Nov 22 13:10:28 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\LIBR.LLB
+Sat Nov 22 13:10:28 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\MAG.LLB
+Sat Nov 22 13:10:28 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\MBOAD.LLB
+Sat Nov 22 13:10:28 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\MISCELLANEOUS.LLB
+Sat Nov 22 13:10:28 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\MOLEX 1.25MM.LLB
+Sat Nov 22 13:10:28 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\MY_LIB_CON_MOLEX.LLB
+Sat Nov 22 13:10:28 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\MY_LIB_CON_RF.LLB
+Sat Nov 22 13:10:28 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\MY_LIB_CON_SAMTEC.LLB
+Sat Nov 22 13:10:28 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\MY_LIB_RELAY.LLB
+Sat Nov 22 13:10:28 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\MY_LIB_SM_MOD.LLB
+Sat Nov 22 13:10:28 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\MY_LIB_TM_MOD.LLB
+Sat Nov 22 13:10:28 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\MY_LIB_TO.LLB
+Sat Nov 22 13:10:28 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\POWERINT_COMP.LLB
+Sat Nov 22 13:10:28 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\QFN.LLB
+Sat Nov 22 13:10:28 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\RO.LLB
+Sat Nov 22 13:10:28 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\ROHITH.LLB
+Sat Nov 22 13:10:29 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\ROHITH1.LLB
+Sat Nov 22 13:10:29 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\SHERIEF.LLB
+Sat Nov 22 13:10:29 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\SINGLE.LLB
+Sat Nov 22 13:10:29 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\SM.LLB
+Sat Nov 22 13:10:29 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\SMART.LLB
+Sat Nov 22 13:10:29 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\SOG.LLB
+Sat Nov 22 13:10:29 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\SOJ.LLB
+Sat Nov 22 13:10:29 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\SPEED.LLB
+Sat Nov 22 13:10:29 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\SPEED1.LLB
+Sat Nov 22 13:10:29 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\THU VIEN LAYOUT 1-1-2007.LLB
+Sat Nov 22 13:10:29 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\UR2.LLB
+Sat Nov 22 13:10:29 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\USB.LLB
+Sat Nov 22 13:10:29 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\BCON100T.llb
+Sat Nov 22 13:10:29 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\BCON156T.llb
+Sat Nov 22 13:10:29 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\BGA.llb
+Sat Nov 22 13:10:29 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\CLCC.llb
+Sat Nov 22 13:10:29 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\DCON050T.llb
+Sat Nov 22 13:10:29 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\DCON085T.llb
+Sat Nov 22 13:10:29 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\DIMM050F.llb
+Sat Nov 22 13:10:29 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\DIMM050T.llb
+Sat Nov 22 13:10:29 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\DIN.llb
+Sat Nov 22 13:10:29 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\DIP100B.llb
+Sat Nov 22 13:10:29 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\DIP100T.llb
+Sat Nov 22 13:10:29 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\DSUBT.llb
+Sat Nov 22 13:10:29 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\DSUBT_HD.LLB
+Sat Nov 22 13:10:29 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\ECON100T.llb
+Sat Nov 22 13:10:29 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\FBUS.llb
+Sat Nov 22 13:10:29 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\ISA.llb
+Sat Nov 22 13:10:29 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\JUMPER.LLB
+Sat Nov 22 13:10:29 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\LAYOUT.llb
+Sat Nov 22 13:10:29 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\LCON100T.llb
+Sat Nov 22 13:10:29 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\PC104.llb
+Sat Nov 22 13:10:29 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\PCI.llb
+Sat Nov 22 13:10:29 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\PCON100T.llb
+Sat Nov 22 13:10:29 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\PCON156T.llb
+Sat Nov 22 13:10:29 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\PGA.llb
+Sat Nov 22 13:10:29 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\PLCC.llb
+Sat Nov 22 13:10:29 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\QUAD.llb
+Sat Nov 22 13:10:29 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\QUADB.llb
+Sat Nov 22 13:10:29 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\RELAY.llb
+Sat Nov 22 13:10:29 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\RF.llb
+Sat Nov 22 13:10:29 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\SBUS.llb
+Sat Nov 22 13:10:29 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\SIMM050F.llb
+Sat Nov 22 13:10:29 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\SIMM050T.llb
+Sat Nov 22 13:10:30 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\SIMM100F.llb
+Sat Nov 22 13:10:30 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\SIMM100T.llb
+Sat Nov 22 13:10:30 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\SIP.llb
+Sat Nov 22 13:10:30 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\SM.llb
+Sat Nov 22 13:10:30 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\SOG.llb
+Sat Nov 22 13:10:30 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\SOJ.llb
+Sat Nov 22 13:10:30 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\STIFF.llb
+Sat Nov 22 13:10:30 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\TELE.llb
+Sat Nov 22 13:10:30 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\TM_AXIAL.llb
+Sat Nov 22 13:10:30 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\TM_CAP_P.llb
+Sat Nov 22 13:10:30 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\TM_CYLND.llb
+Sat Nov 22 13:10:30 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\TM_DIODE.llb
+Sat Nov 22 13:10:30 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\TM_DISC.llb
+Sat Nov 22 13:10:30 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\TM_RAD.llb
+Sat Nov 22 13:10:30 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\TO.llb
+Sat Nov 22 13:10:30 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\TRAINING.LLB
+Sat Nov 22 13:10:30 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\VRES.llb
+Sat Nov 22 13:10:30 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\WCON100T.llb
+Sat Nov 22 13:10:30 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\XT.llb
+Sat Nov 22 13:10:30 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\ZIGZAG.llb
+Sat Nov 22 13:10:31 Saved as file F:\ROHITH\ORCAD SCHEMATICS\GERBER\LAYOUT.MAX
+Sat Nov 22 13:10:31 Loaded file F:\ROHITH\ORCAD SCHEMATICS\GERBER\LAYOUT.MAX
+Sat Nov 22 13:11:33 Saved as file BACKUP1.MAX
+Sat Nov 22 13:12:44 Saved as file BACKUP1.MAX
+Sat Nov 22 13:12:44 Saved as file F:\ROHITH\ORCAD SCHEMATICS\GERBER\LAYOUT.MAX
+Sat Nov 22 13:12:52 UserDiv from Layout.INI for AutoECO: 60
+Sat Nov 22 13:12:52 Loaded file F:\ROHITH\ORCAD SCHEMATICS\GERBER\LAYOUT.MAX
+Sat Nov 22 13:12:52 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\DDPACK.LLB
+Sat Nov 22 13:12:52 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\DOUBLE.LLB
+Sat Nov 22 13:12:52 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\EAGLESH.LLB
+Sat Nov 22 13:12:52 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\EUROCARD.LLB
+Sat Nov 22 13:12:52 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\LAYOUT.LLB
+Sat Nov 22 13:12:52 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\LAYOUT1.LLB
+Sat Nov 22 13:12:52 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\LIB.LLB
+Sat Nov 22 13:12:52 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\LIBR.LLB
+Sat Nov 22 13:12:52 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\MAG.LLB
+Sat Nov 22 13:12:52 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\MBOAD.LLB
+Sat Nov 22 13:12:52 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\MISCELLANEOUS.LLB
+Sat Nov 22 13:12:52 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\MOLEX 1.25MM.LLB
+Sat Nov 22 13:12:52 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\MY_LIB_CON_MOLEX.LLB
+Sat Nov 22 13:12:52 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\MY_LIB_CON_RF.LLB
+Sat Nov 22 13:12:52 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\MY_LIB_CON_SAMTEC.LLB
+Sat Nov 22 13:12:52 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\MY_LIB_RELAY.LLB
+Sat Nov 22 13:12:52 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\MY_LIB_SM_MOD.LLB
+Sat Nov 22 13:12:52 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\MY_LIB_TM_MOD.LLB
+Sat Nov 22 13:12:52 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\MY_LIB_TO.LLB
+Sat Nov 22 13:12:52 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\POWERINT_COMP.LLB
+Sat Nov 22 13:12:52 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\QFN.LLB
+Sat Nov 22 13:12:52 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\RO.LLB
+Sat Nov 22 13:12:52 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\ROHITH.LLB
+Sat Nov 22 13:12:52 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\ROHITH1.LLB
+Sat Nov 22 13:12:52 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\SHERIEF.LLB
+Sat Nov 22 13:12:52 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\SINGLE.LLB
+Sat Nov 22 13:12:52 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\SM.LLB
+Sat Nov 22 13:12:52 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\SMART.LLB
+Sat Nov 22 13:12:52 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\SOG.LLB
+Sat Nov 22 13:12:52 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\SOJ.LLB
+Sat Nov 22 13:12:52 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\SPEED.LLB
+Sat Nov 22 13:12:52 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\SPEED1.LLB
+Sat Nov 22 13:12:52 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\THU VIEN LAYOUT 1-1-2007.LLB
+Sat Nov 22 13:12:52 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\UR2.LLB
+Sat Nov 22 13:12:52 Loaded file E:\LIBRARIES\LIBRARY\LAYOUT_LIB\USB.LLB
+Sat Nov 22 13:12:52 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\BCON100T.llb
+Sat Nov 22 13:12:52 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\BCON156T.llb
+Sat Nov 22 13:12:52 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\BGA.llb
+Sat Nov 22 13:12:52 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\CLCC.llb
+Sat Nov 22 13:12:52 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\DCON050T.llb
+Sat Nov 22 13:12:52 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\DCON085T.llb
+Sat Nov 22 13:12:52 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\DIMM050F.llb
+Sat Nov 22 13:12:52 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\DIMM050T.llb
+Sat Nov 22 13:12:52 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\DIN.llb
+Sat Nov 22 13:12:52 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\DIP100B.llb
+Sat Nov 22 13:12:52 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\DIP100T.llb
+Sat Nov 22 13:12:52 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\DSUBT.llb
+Sat Nov 22 13:12:52 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\DSUBT_HD.LLB
+Sat Nov 22 13:12:52 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\ECON100T.llb
+Sat Nov 22 13:12:52 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\FBUS.llb
+Sat Nov 22 13:12:52 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\ISA.llb
+Sat Nov 22 13:12:52 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\JUMPER.LLB
+Sat Nov 22 13:12:52 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\LAYOUT.llb
+Sat Nov 22 13:12:53 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\LCON100T.llb
+Sat Nov 22 13:12:53 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\PC104.llb
+Sat Nov 22 13:12:53 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\PCI.llb
+Sat Nov 22 13:12:53 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\PCON100T.llb
+Sat Nov 22 13:12:53 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\PCON156T.llb
+Sat Nov 22 13:12:53 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\PGA.llb
+Sat Nov 22 13:12:53 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\PLCC.llb
+Sat Nov 22 13:12:53 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\QUAD.llb
+Sat Nov 22 13:12:53 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\QUADB.llb
+Sat Nov 22 13:12:53 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\RELAY.llb
+Sat Nov 22 13:12:53 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\RF.llb
+Sat Nov 22 13:12:53 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\SBUS.llb
+Sat Nov 22 13:12:53 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\SIMM050F.llb
+Sat Nov 22 13:12:53 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\SIMM050T.llb
+Sat Nov 22 13:12:53 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\SIMM100F.llb
+Sat Nov 22 13:12:53 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\SIMM100T.llb
+Sat Nov 22 13:12:53 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\SIP.llb
+Sat Nov 22 13:12:53 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\SM.llb
+Sat Nov 22 13:12:53 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\SOG.llb
+Sat Nov 22 13:12:53 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\SOJ.llb
+Sat Nov 22 13:12:53 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\STIFF.llb
+Sat Nov 22 13:12:53 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\TELE.llb
+Sat Nov 22 13:12:53 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\TM_AXIAL.llb
+Sat Nov 22 13:12:53 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\TM_CAP_P.llb
+Sat Nov 22 13:12:53 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\TM_CYLND.llb
+Sat Nov 22 13:12:53 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\TM_DIODE.llb
+Sat Nov 22 13:12:53 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\TM_DISC.llb
+Sat Nov 22 13:12:53 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\TM_RAD.llb
+Sat Nov 22 13:12:53 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\TO.llb
+Sat Nov 22 13:12:53 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\TRAINING.LLB
+Sat Nov 22 13:12:53 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\VRES.llb
+Sat Nov 22 13:12:53 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\WCON100T.llb
+Sat Nov 22 13:12:53 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\XT.llb
+Sat Nov 22 13:12:53 Loaded file C:\OrCAD\OrCAD_16.0\tools\Layout_Plus\library\ZIGZAG.llb
+Sat Nov 22 13:12:55 Saved as file F:\ROHITH\ORCAD SCHEMATICS\GERBER\LAYOUT.MAX
+Sat Nov 22 13:12:55 Loaded file F:\ROHITH\ORCAD SCHEMATICS\GERBER\LAYOUT.MAX
+Sat Nov 22 13:13:17 Saved as file ~undo.max
+Sat Nov 22 13:13:25 Saved as file ~undo.max
+Sat Nov 22 13:13:33 Saved as file ~undo.max
+Sat Nov 22 13:13:39 Saved as file ~undo.max
+Sat Nov 22 13:13:56 Saved as file ~undo.max
+Sat Nov 22 13:15:53 Saved as file F:\ROHITH\ORCAD SCHEMATICS\GERBER\LAYOUT.MAX
+Sat Nov 22 13:17:18 Saved as file F:\ROHITH\ORCAD SCHEMATICS\GERBER\LAYOUT.MAX
+Sat Nov 22 13:18:30 Saved as file F:\ROHITH\ORCAD SCHEMATICS\GERBER\LAYOUT.MAX
+Sat Nov 22 13:18:42 Saved as file ~undo.max
+Sat Nov 22 13:19:41 Saved as file ~undo.max
+Sat Nov 22 13:20:09 Saved as file ~undo.max
+Sat Nov 22 13:21:04 Saved as file ~undo.max
+Sat Nov 22 13:22:08 Saved as file ~undo.max
+Sat Nov 22 13:22:10 Saved as file F:\ROHITH\ORCAD SCHEMATICS\GERBER\LAYOUT.MAX
+Sat Nov 22 13:22:39 Saved as file F:\ROHITH\ORCAD SCHEMATICS\GERBER\LAYOUT.MAX
+Sat Nov 22 13:23:03 Saved as file BACKUP1.MAX
+Sat Nov 22 13:33:46 Saved as file F:\ROHITH\ORCAD SCHEMATICS\GERBER\LAYOUT.MAX
+Sat Nov 22 13:36:21 Saved as file F:\ROHITH\ORCAD SCHEMATICS\GERBER\LAYOUT.MAX
+Sat Nov 22 13:36:23 Saved as file F:\ROHITH\ORCAD SCHEMATICS\GERBER\LAYOUT.MAX
+Sat Nov 22 13:36:24 Saved as file F:\ROHITH\ORCAD SCHEMATICS\GERBER\LAYOUT.MAX
