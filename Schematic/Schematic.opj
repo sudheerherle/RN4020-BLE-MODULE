@@ -1,0 +1,99 @@
+(ExpressProject "Schematic"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\schematic.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "0")
+    (Annotate_Page_Order "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
+    (ANNOTATE_IncludeNonPrimitive "FALSE")
+    (ANNOTATE_Refdes_Control_Required "FALSE")
+    (Netlist_TAB "3")
+    (LAYOUT_Netlist_File "SCHEMATIC.MNL")
+    (LAYOUT_PCB_Footprint "{PCB Footprint}")
+    (TRUE)
+    (LAYOUT_Units "0")
+    ( "TRUE"))
+  (Folder "Outputs"
+    (File ".\schematic.mnl"
+      (Type "LAYOUT Netlist File")))
+  (Folder "Referenced Projects")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" "f:\rohith\orcad schematics\schematic.dsn")
+      (Path "Design Resources" "f:\rohith\orcad schematics\schematic.dsn"
+         "SCHEMATIC1")
+      (Path "Outputs")
+      (Select "Design Resources" "f:\rohith\orcad schematics\schematic.dsn"
+         "SCHEMATIC1"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 0 200 0 392"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -30 75 1235 75 505")
+        (Scroll "7 0")
+        (Zoom "115")
+        (Occurrence "/"))
+      (Path "F:\ROHITH\ORCAD SCHEMATICS\SCHEMATIC.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1")))
+  (MPSSessionName "rohith")
+  (PartMRUSelector
+    ("T POINT A"
+      (FullPartName "T POINT A.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_16.0\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (REG1117/SO
+      (FullPartName "REG1117/SO.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_16.0\TOOLS\CAPTURE\LIBRARY\REGULATOR.OLB")
+      (DeviceIndex "0"))
+    (VCC
+      (LibraryName "C:\ORCAD\ORCAD_16.0\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    ("SW MAG-SPDT"
+      (FullPartName "SW MAG-SPDT.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_16.0\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("CAP NP"
+      (FullPartName "CAP NP.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_16.0\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (RESISTOR
+      (FullPartName "RESISTOR.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_16.0\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (LED
+      (FullPartName "LED.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_16.0\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (CON18
+      (FullPartName "CON18.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_16.0\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (ICC03
+      (FullPartName "ICC03.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_16.0\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (JUMPER
+      (FullPartName "JUMPER.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_16.0\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName "C:\ORCAD\ORCAD_16.0\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0")))
+  (LastUsedLibraryBrowseDirectory "F:\Rohith\ORCAD schematics\ORCAD schematics"))

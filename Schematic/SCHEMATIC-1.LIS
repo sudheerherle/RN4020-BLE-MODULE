@@ -1,0 +1,39 @@
+AutoECO Report
+FILE-A: F:\ROHITH\ORCAD SCHEMATICS\SCHEMATIC-1.MAX
+FILE-B: F:\ROHITH\ORCAD SCHEMATICS\SCHEMATIC.MNL
+If "*EOF*" immediately follows, no changes were made
+Net N02797 renamed to N02799
+Deleting J2.7 from net N00838
+Adding J2.10 to net N00838
+Deleting J2.6 from net N00866
+Adding J2.9 to net N00866
+Deleting J2.5 from net N00899
+Adding J2.8 to net N00899
+Deleting J2.4 from net N01385
+Adding J2.7 to net N01385
+Deleting J2.3 from net N01434
+Adding J2.6 to net N01434
+Deleting J2.2 from net N01482
+Adding J2.5 to net N01482
+Deleting J2.15 from net N02463
+Adding J2.2 to net N02463
+Deleting J2.16 from net N02591
+Adding J2.3 to net N02591
+Deleting J2.17 from net N02799
+Adding J2.4 to net N02799
+Deleting J2.14 from net N03189
+Adding J2.17 to net N03189
+Deleting J2.13 from net N03476
+Adding J2.16 to net N03476
+Deleting J2.12 from net N03556
+Adding J2.15 to net N03556
+Deleting J2.11 from net N03804
+Adding J2.14 to net N03804
+Deleting J2.10 from net N04390
+Adding J2.13 to net N04390
+Deleting J2.9 from net N05401
+Adding J2.12 to net N05401
+Deleting J2.8 from net N05592
+Adding J2.11 to net N05592
+*EOF*
+No errors found
